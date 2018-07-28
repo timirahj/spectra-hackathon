@@ -1,0 +1,6 @@
+framework module Pods_FilterFun_SampleApp {
+  umbrella header "Pods-FilterFun_SampleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

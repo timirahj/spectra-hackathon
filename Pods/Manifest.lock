@@ -1,0 +1,22 @@
+PODS:
+  - ImageLoader (0.14.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+
+DEPENDENCIES:
+  - ImageLoader
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ImageLoader
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  ImageLoader: 56f57e35d6ed26a74183dc2e472133b4b22eb7b9
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: 9e6c58783dc70e0dc49ff72691374d7fbbf41be9
+
+COCOAPODS: 1.5.3
